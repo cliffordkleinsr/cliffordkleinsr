@@ -18,5 +18,4 @@ You can click the Preview link to take a look at your changes.
 - ![linkedlogo](https://user-images.githubusercontent.com/73484962/189169833-2f48dce9-cf9a-48c1-a463-b60b52f0e77c.png)
 [Cliff Njoroge](https://www.linkedin.com/in/cliff-njoroge-7ab4181b6)  
 
-## Midjourney:
-![image](https://user-images.githubusercontent.com/37869706/200823045-c35d8eb2-0bbd-4cfa-ae89-377675c33ac8.png)
+
