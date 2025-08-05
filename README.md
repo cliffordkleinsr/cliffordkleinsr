@@ -9,11 +9,11 @@ You can click the Preview link to take a look at your changes.
 ### Hi there!😇
 
  - My name is **clifford Njoroge**
-## 👨‍💻**Data Scientist**👨‍💻
+## 👨‍💻**Github Enjoyer**👨‍💻
 
 
 - 👀 I am interested in Artificial Intelligence
-- 🌱 I’m currently learning on how Generative adverserial networks works
+- 🌱 I’m currently learning webGL
 - You can find the projects I have worked on in the repositories panel
 
 ## 💬 Contact:
